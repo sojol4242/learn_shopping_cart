@@ -1,68 +1,99 @@
 {
-  "items": [
-    {
-      "sys": { "id": "1" },
-      "fields": {
-        "title": "queen panel bed",
-        "price": 10.99,
-        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "2" },
-      "fields": {
-        "title": "king panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "3" },
-      "fields": {
-        "title": "single panel bed",
-        "price": 12.99,
-        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "4" },
-      "fields": {
-        "title": "twin panel bed",
-        "price": 22.99,
-        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "5" },
-      "fields": {
-        "title": "fridge",
-        "price": 88.99,
-        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "6" },
-      "fields": {
-        "title": "dresser",
-        "price": 32.99,
-        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "7" },
-      "fields": {
-        "title": "couch",
-        "price": 45.99,
-        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
-      }
-    },
-    {
-      "sys": { "id": "8" },
-      "fields": {
-        "title": "table",
-        "price": 33.99,
-        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
-      }
-    }
-  ]
+    "items": [{
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "shoe-1",
+                "price": 10.99,
+                "image": { "fields": { "file": { "url": "./images/shoe-1.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "Shoe-2",
+                "price": 15.99,
+                "image": { "fields": { "file": { "url": "./images/shoe-2.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "shoe-3",
+                "price": 12.99,
+                "image": { "fields": { "file": { "url": "./images/shoe-3.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Shoe-5",
+                "price": 22.99,
+                "image": { "fields": { "file": { "url": "./images/Shoe-4.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "hill-1",
+                "price": 48.99,
+                "image": { "fields": { "file": { "url": "./images/hill-1.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Hill-2",
+                "price": 22.99,
+                "image": { "fields": { "file": { "url": "./images/hill-2.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "Hill-3",
+                "price": 15.99,
+                "image": { "fields": { "file": { "url": "./images/hill-3.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "Hill-4",
+                "price": 13.99,
+                "image": { "fields": { "file": { "url": "./images/hill-4.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "9" },
+            "fields": {
+                "title": "Hill-5",
+                "price": 23.99,
+                "image": { "fields": { "file": { "url": "./images/hill-.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "10" },
+            "fields": {
+                "title": "Shoe-5",
+                "price": 16.99,
+                "image": { "fields": { "file": { "url": "./images/Shoe-5.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "11" },
+            "fields": {
+                "title": "Shoe-5",
+                "price": 13.99,
+                "image": { "fields": { "file": { "url": "./images/Shoe-5.jpg" } } }
+            }
+        },
+        {
+            "sys": { "id": "12" },
+            "fields": {
+                "title": "shoe-6",
+                "price": 20.99,
+                "image": { "fields": { "file": { "url": "./images/shoe-6.jpg" } } }
+            }
+        }
+    ]
 }
