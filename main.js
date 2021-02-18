@@ -164,7 +164,7 @@ class UI {
                     // console.log(removeItem);
                     let id = removeItem.dataset.id;
                     cartContent.removeChild(removeItem.parentElement.parentElement)
-                        // this.removeItem(id);
+                    this.removeItem(id);
 
                 }
                 //increase
@@ -194,9 +194,9 @@ class UI {
                         this.setCartValues(cart);
                         removeAmount.previousElementSibling.innerText = tempItem.amount;
                     }
-                    Storage.saveCart(cart);
-                    this.setCartValues(cart);
-                    removeAmount.nextElementSibling.innerText = tempItem.amount;
+                    // Storage.saveCart(cart);
+                    // this.setCartValues(cart);
+                    // removeAmount.nextElementSibling.innerText = tempItem.amount;
                 }
             })
 
