@@ -1,2 +1,2 @@
 # learn_shopping_cart
-netlify link:https://pensive-fermi-188c2a.netlify.app/
+netlify link:https://shoeshop-cartpractice.netlify.app/
